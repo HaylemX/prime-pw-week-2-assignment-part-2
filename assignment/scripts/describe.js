@@ -1,5 +1,5 @@
 // WHAT IS THIS EVEN DOING?
-console.log('hello world');
+
 // For questions 1-3, each code block is syntactically and logically correct. Your job is to describe what is happening.
 // They are in isolation -- variables in one question do not affect other questions.
 // Describe the code as it would be run, and make sure you give us the console.log's value at the end.
@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We make a variable called name as set it as a string called Dane.
+// Then we write an if statement that if the variable name equals Dane.
+// If the variable equals Dane, we console log "Hi, Mary!".
+// If the variable does not equal Dane, we console log "How do you do?".
 
 //CODE
 /*
@@ -45,7 +45,7 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
+// We write a variable called "secret"
 //
 //
 //
@@ -125,6 +125,7 @@ if (number >= 2) {
 
 
 
+
 //4. We start with three variables -- colorOne is set to 'blue' and
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true
 // -- it is, so we set colorOne and colorTwo to 'purple'
@@ -136,8 +137,14 @@ let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+  //Should be another if before colorOne variable
+  //Then need to console log it for those if statements if true or false
 }
 */
+
+
+
+
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4
