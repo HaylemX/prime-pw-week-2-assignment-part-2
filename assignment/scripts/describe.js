@@ -144,8 +144,9 @@ let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
-  //Should be another if before colorOne variable
-  //Then need to console log it for those if statements if true or false
+
+  // FIX colorOne should be 'blue' and colorTwo be 'red'
+  // Set colorTwo to also equal 'purple'
 }
 */
 
@@ -164,6 +165,13 @@ const time = 4;
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
+
+// FIX Should be && instead ||
+
+
+
+
+
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
@@ -174,9 +182,18 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
-if(minAge <= age) {
+if (minAge <= age) {
   console.log('no entry');
 } else {
   console.log('enter');
 }
+
+// FIX console log should be 'enter' instead of 'no entry'
+// Also, the else console log should be 'no entry'
+
+
+
+
+
+
 */
