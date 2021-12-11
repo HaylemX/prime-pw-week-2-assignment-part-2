@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// We make a variable called name as set it as a string called Dane.
-// Then we write an if statement that if the variable name equals Dane.
-// If the variable equals Dane, we console log "Hi, Mary!".
-// If the variable does not equal Dane, we console log "How do you do?".
+// We make a variable called name as set it as a string called Dane
+// Then we write an if statement that if the variable name equals Dane
+// If the variable equals Dane, we console log "Hi, Mary!"
+// If the variable does not equal Dane, we console log "How do you do?"
 
 //CODE
 /*
@@ -45,10 +45,13 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// We write a variable called "secret"
-//
-//
-//
+// We write a let variable called "secret"
+// Write a let variable called code and equal it to a number 123
+// We write a if statement, if variable code equals 123
+// If the if statement is true, variable secret will output string "Super" and variable code will be multiplied by 2
+// Then we write another if statement if code is greater than number 250, variable secret will output "duper"
+//We then console log variable 'secret'
+
 
 //CODE
 /*
@@ -70,10 +73,14 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We write variable isStudent and give it a boolean True, we write let variable age and equal it to number 34, we write let variable zip and equal it to 55407
+// We then write a if statement if variable isStudent is equal to true and variable zip is greater than number 80000
+// We console log 'You're a student on the West Coast!'
+// We then write an else if, write variable isStudent equal to false or age is less than 30
+// We console log 'What are you hobbies?'
+// We then write else if, write variable isStudent is equal to true
+// We console log 'Welcome to Prime'
+// Then write else statement and console log ('How about the weather?')
 
 //CODE
 /*
